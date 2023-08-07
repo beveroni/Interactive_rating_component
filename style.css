@@ -131,6 +131,7 @@ input[type="radio"]:hover+label {
   justify-content: center;
   text-align: center;
   display: none;
+  margin-bottom: 10px;
 }
 
 .thankyou-img {
@@ -140,8 +141,8 @@ input[type="radio"]:hover+label {
 .thankyou-num--chosen {
   color: var(--Orange);
   background-color: hsla(216, 12%, 54%, 0.205);
-  font-size: 0.9rem;
-  padding: 0.25rem 0.7rem;
+  font-size: 1rem;
+  padding: 0.7rem 0.7rem;
   border-radius: 30px;
   margin-bottom: 1.8rem;
 }
